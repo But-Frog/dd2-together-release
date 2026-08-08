@@ -10,7 +10,7 @@ goes from here.
 
 ## Download
 
-Grab the latest release from the [Releases page](LINK).
+Grab the latest release from the [Releases page](https://github.com/But-Frog/dd2-together-release/releases).
 
 ## Installation
 
